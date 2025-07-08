@@ -1,0 +1,1 @@
+print('collecting newspaper data') 
