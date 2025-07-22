@@ -34,10 +34,6 @@ def split_sentences(tokens):
     return sentences
 
 def compute_pmi(target_word, sentences, total_counts, total_tokens, window_size=5, min_cooccur=3):
-    """
-    Calculate PMI scores for collocates of `target_word` across `sentences`.
-    Only collocates with co-occurrence >= min_cooccur are included.
-    """
     target_occurrences = 0
     cooccur_counts = Counter()
     for sentence in sentences:
