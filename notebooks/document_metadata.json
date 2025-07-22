@@ -1,0 +1,26 @@
+[
+    {
+        "filename": "1950_1970.txt",
+        "original_word_count": 205197,
+        "cleaned_word_count": 187282,
+        "num_lines": 29484
+    },
+    {
+        "filename": "1970_1990.txt",
+        "original_word_count": 252515,
+        "cleaned_word_count": 231229,
+        "num_lines": 38629
+    },
+    {
+        "filename": "1990_2010.txt",
+        "original_word_count": 211012,
+        "cleaned_word_count": 162078,
+        "num_lines": 25895
+    },
+    {
+        "filename": "2010_2025.txt",
+        "original_word_count": 144769,
+        "cleaned_word_count": 139714,
+        "num_lines": 999
+    }
+]
