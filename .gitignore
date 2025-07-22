@@ -214,5 +214,4 @@ __pycache__/
 data_raw/
 data_cleaned/
 models/
-results/
 .idea/
