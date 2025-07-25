@@ -1,7 +1,7 @@
 import os
 import re
 import json
-from bnltk.stemmer import BanglaStemmer # Note the class name change
+ # Note the class name change
 RAW_DATA_DIR = os.path.join("..", "..", "data_raw")
 CLEANED_DATA_DIR = os.path.join("..", "..", "data_cleaned")
 METADATA_FILE = os.path.join("..", "..", "document_metadata.json")
