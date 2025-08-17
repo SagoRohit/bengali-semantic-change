@@ -9,13 +9,13 @@ TOP_K = 10
 # --- Load data (adjust path as needed)
 @st.cache_data
 def load_neighbors():
-    with open("results/semantic_neighbors_drift.json", "r", encoding="utf-8") as f:
+    with open("../../results/semantic_neighbors_drift.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 @st.cache_data
 def load_freqs():
     # Load frequency file per era, e.g., {"word": {"era1": freq1, "era2": freq2, ...}}
-    with open("results/freqs_by_era.json", "r", encoding="utf-8") as f:
+    with open("../../results/freqs_by_era.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 neighbors = load_neighbors()
