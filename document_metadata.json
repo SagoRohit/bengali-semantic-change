@@ -2,25 +2,33 @@
     {
         "filename": "1950_1970.txt",
         "original_word_count": 940652,
-        "cleaned_word_count": 689252,
-        "num_lines": 82441
+        "cleaned_word_count": 394833,
+        "stemmed_words_count": 195637,
+        "num_lines": 78495,
+        "stemming_ratio": 16303.083333333334
     },
     {
         "filename": "1970_1990.txt",
         "original_word_count": 916711,
-        "cleaned_word_count": 698788,
-        "num_lines": 75549
+        "cleaned_word_count": 398296,
+        "stemmed_words_count": 212330,
+        "num_lines": 71510,
+        "stemming_ratio": 35388.333333333336
     },
     {
         "filename": "1990_2010.txt",
         "original_word_count": 1109531,
-        "cleaned_word_count": 831770,
-        "num_lines": 57390
+        "cleaned_word_count": 407820,
+        "stemmed_words_count": 256348,
+        "num_lines": 53852,
+        "stemming_ratio": 12207.047619047618
     },
     {
         "filename": "2010_2025.txt",
-        "original_word_count": 1193301,
-        "cleaned_word_count": 1061710,
-        "num_lines": 85682
+        "original_word_count": 1296724,
+        "cleaned_word_count": 739623,
+        "stemmed_words_count": 363463,
+        "num_lines": 93971,
+        "stemming_ratio": 7269.26
     }
 ]
