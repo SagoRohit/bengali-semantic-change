@@ -215,3 +215,7 @@ data_raw/
 data_cleaned/
 models/
 .idea/
+.png/
+.jpg/
+.txt/
+.csv/
