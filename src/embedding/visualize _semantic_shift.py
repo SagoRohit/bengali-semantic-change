@@ -13,8 +13,7 @@ ERAS = [
     "1990_2010",
     "2010_2025",
 ]
-TARGET_WORD = "করেছে"  # Change this to any word you want to analyze (should exist in all eras)
-# =========================
+TARGET_WORD = "করেছে"  
 
 def load_models(suffix):
     models = []
